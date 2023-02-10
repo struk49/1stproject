@@ -4,20 +4,47 @@
     border: 0;
 }
 
+body{
+    font-family: Montserrat;
+    color:#fff;
+}
+
+
 .bg-1 {
-    background-color: #1abc9c; /* Green */
+    margin-top: 40px;
+    background: red;
     color: #ffffff;
   }
   .bg-2 {
     background-color: #474e5d; /* Dark Blue */
     color: #ffffff;
   }
-  .bg-3 {
+.bg-3 {
     background-color: #ffffff; /* White */
     color: #555555;
   }
-
-  .container-fluid
-  {padding-top: 70px;
+.container-fluid
+{  
+  height: 600px;
+  width: 100%;
+  padding-top: 70px;
     padding-bottom: 70px;
-    }
+}
+
+
+
+h3{
+  padding-top: 75px;
+  margin: 30px;
+  font-size: 50px;
+}
+
+
+
+
+
+
+  
+
+
+    
